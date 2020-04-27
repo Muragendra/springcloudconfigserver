@@ -1,0 +1,3 @@
+my:
+    greeting: Hello , from spring-boot-config specific file
+    
